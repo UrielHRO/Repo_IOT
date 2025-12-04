@@ -1,0 +1,12 @@
+[22:08, 03/12/2025] Felipe Almeida: https://wokwi.com/projects/448281541780280321
+
+https://wokwi.com/projects/448644772195648513
+
+https://wokwi.com/projects/448722064857841665
+
+https://wokwi.com/projects/448983704880643073
+
+https://wokwi.com/projects/449078018002188289
+ percepcao (operacoes com varios componentes)-> https://wokwi.com/projects/449357001936783361
+percepcao (rgb alterado via ultrassonico + botao de acender leds) -> https://wokwi.com/projects/449361398067862529
+percepcao + redes -> https://wokwi.com/projects/449359439964262401
